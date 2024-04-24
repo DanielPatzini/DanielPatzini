@@ -1,7 +1,7 @@
  - 👋 Hi, I’m @DanielPatzini
 - 👀 I’m interested in Hard Work
 - 🌱 I’m currently learning in github about projects
-- 💞️ I’m looking to collaborate on my Breeds on github  
+- 💞️ I’m looking to collaborate on my Breeds on github   
 - 📫 How to reach me with my mail                                                                                                                                                           
   
 <!---
